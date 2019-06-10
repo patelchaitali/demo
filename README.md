@@ -23,6 +23,10 @@ git rm filename.fileextension
 
 git commit -m "message" 
 
+-> to push files into git
+
+git push origin master (branch name)
+ 
 
 
 
